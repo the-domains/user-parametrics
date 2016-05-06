@@ -1,0 +1,28 @@
+name: User Parametrics
+favicon: null
+layout_spectrum: 0.42691467166878283
+typography_spectrum: 0.3193013141863048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9190640286542475
+  lightness: 0.5976403260137886
+  saturation: 0.44480591104365885
+  rhythmicContrast: 0.7948550651781261
+purpose: []
